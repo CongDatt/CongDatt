@@ -4,6 +4,6 @@
 <br/>
 - 🌱 I’m currently learning Laravel
 <br/>
-- 📫 How to reach me: [FB - @CongDatt](https://www.facebook.com/datianooo)
+- 📫 How to reach me: [![FB - @CongDatt](https://img.shields.io/twitter/follow/imthepk?style=social)](https://www.facebook.com/datianooo)
 <br/>
 - ⚡ Fun fact: I spend almost 12 hours listening to songs every day.
