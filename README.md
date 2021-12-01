@@ -6,4 +6,4 @@
 <br/>
 - 📫 How to reach me:
 <br/>
-- ⚡ Fun fact: I spend almost 12 hours listening to songs every day.
+- ⚡ Fun fact: Nothing ^.^
