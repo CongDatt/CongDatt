@@ -2,7 +2,7 @@
 <br/>
 - 👀 I’m interested in BE
 <br/>
-- 🌱 I’m currently learning Laravel
+- 🌱 I’m currently learning ava Web
 <br/>
 - 📫 How to reach me:
 <br/>
